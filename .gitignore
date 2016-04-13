@@ -1,0 +1,4 @@
+/.gradle
+/rest-plugin/build
+/rest-test/build
+/rest-test/.gradle
